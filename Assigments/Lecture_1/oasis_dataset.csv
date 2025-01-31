@@ -1,4 +1,4 @@
-"","subject_id","visit","time_of_ad","m_f","educ","ses","age","mr_delay","e_tiv","n_wbv","asf"
+"entry_number","subject_id","visit","time_of_ad","m_f","educ","ses","age","mr_delay","e_tiv","n_wbv","asf"
 "1","OAS2_0002",1,NA,"M",12,"-1",75,0,1678,0.736,1.046
 "2","OAS2_0002",2,NA,"M",12,"-1",76,560,1738,0.713,1.01
 "3","OAS2_0002",3,NA,"M",12,"-1",80,1895,1698,0.701,1.034
